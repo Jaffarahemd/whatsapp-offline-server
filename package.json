@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-offline-server",
+  "version": "1.0.0",
+  "description": "WhatsApp Server Devil 24/7 🔥 by Servus Yadav",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
